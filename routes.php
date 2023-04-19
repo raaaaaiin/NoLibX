@@ -1,4 +1,33 @@
 <?php
+/**
+ * Your framework's main router file.
+ * 
+ * This file routes incoming requests to the appropriate controllers
+ * and actions, and implements the core functionality of your framework.
+ * 
+ * =======================================================
+ * GNU GENERAL PUBLIC LICENSE
+ * Version 3, 29 June 2007
+ *
+ * I, Marc Raineer Filosopo, hereby declare that I am the original
+ * author of the NoLibX framework developed on April 19, 2023.
+ * I grant permission to use, modify, and distribute this software
+ * framework under the terms and conditions of the GNU General Public
+ * License Version 3 or any later version published by the Free
+ * Software Foundation.
+ *
+ * Contributors:
+ * -  
+ * - 
+ * 
+ * Marc Raineer Filosopo
+ * April 19, 2023
+ * =======================================================
+ * 
+ * 
+ */
+
+
 include_once "autoload.php";
 use app\Common\Route;
 use app\Http\Controller\Auth\LoginController;

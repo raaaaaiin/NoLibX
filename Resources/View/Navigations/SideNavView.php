@@ -1,7 +1,7 @@
 <head>
-  <link rel="stylesheet" href="PreRequisites/bootstrap-4.6.0-dist/css/bootstrap.css">
+  <link rel="stylesheet" href="public/css/bootstrap-4.6.0-dist/css/bootstrap.css">
   <link rel="stylesheet" href="Resources/View/CSS/SideNavCss.css">
-  <script type="application/javascript" src="PreRequisites/jQuery_v3.6.0.js"></script>
+  <script type="application/javascript" src="public/js/jQuery_v3.6.0.js"></script>
 </head>
 
 <body style=style="background-color:white"">
