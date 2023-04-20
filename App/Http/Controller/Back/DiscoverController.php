@@ -6,7 +6,10 @@ class DiscoverController{
     }
     function render(): void
     {
+        $this->activateNavlight();
         require_once 'Resources/View/Back/DiscoverView.php';
     }
+    function activateNavlight(){
+        $_SESSION['CurrentSelection'] = 'DiscoverController';
+    }
 }
-$_SESSION['CurrentSelection'] = 'DiscoverController';
