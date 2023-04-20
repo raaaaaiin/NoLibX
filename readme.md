@@ -16,7 +16,7 @@
 
 
 <h1>Directory Structure</h1>
-
+<pre> 
 C:.
 ├───.idea
 ├───app
@@ -46,7 +46,7 @@ C:.
 └───view
 ├───css
 └───img
-
+</pre>
 <h1>Getting Started</h1>
 
 1. Clone the NoLibX repository to your local development environment.
