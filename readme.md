@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
 
-<head>
     <title>NoLibX - PHP Framework</title>
-</head>
+
 
 <body>
     <h1>NoLibX - PHP Framework</h1>
@@ -11,7 +8,7 @@
         pure PHP, HTML, and CSS, without any external libraries or dependencies. It provides a simple and intuitive
         structure for organizing your code and building web applications efficiently.</p>
 
-    <h2>Features</h2>
+    <h1>Features</h1>
     <ol>
         <li>Pure PHP, HTML, and CSS: No external libraries or dependencies are required, making it easy to understand
             and customize.</li>
@@ -30,7 +27,7 @@
             and interactivity.</li>
     </ol>
 
-    <h2>Directory Structure</h2>
+    <h1>Directory Structure</h1>
     <pre>
         C:.
         ├───.idea
@@ -63,7 +60,7 @@
             └───img
     </pre>
 
-    <h2>Getting Started</h2>
+    <h1>Getting Started</h1>
     <ol>
         <li>Clone the NoLibX repository to your local development environment.</li>
         <li>Configure your web server to point to the <code>public</code> directory as the document root.</li>
