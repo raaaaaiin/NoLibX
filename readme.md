@@ -12,7 +12,7 @@
         structure for organizing your code and building web applications efficiently.</p>
 
     <h2>Features</h2>
-    <ul>
+    <ol>
         <li>Pure PHP, HTML, and CSS: No external libraries or dependencies are required, making it easy to understand
             and customize.</li>
         <li>MVC Architecture: Follows the Model-View-Controller (MVC) design pattern for separating business logic,
@@ -28,7 +28,7 @@
         <li>Uploads Handling: Includes a designated "uploads" directory for handling file uploads from users.</li>
         <li>Front-end Assets: Comes with pre-configured Bootstrap 4.6.0 CSS and JS files for easy front-end styling
             and interactivity.</li>
-    </ul>
+    </ol>
 
     <h2>Directory Structure</h2>
     <pre>
