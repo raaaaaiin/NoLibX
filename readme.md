@@ -95,3 +95,27 @@ NoLibX is an open-source project released under the GNU General Public License v
 <h1>Contact</h1>
 
 For any inquiries or questions, please contact the project maintainer at Marcraineer0089@gmail.com
+
+## Suggested Improvements
+
+We welcome contributions and suggestions for improvements. Here's a list of suggested tasks for contributors:
+
+1. Improve documentation and tutorials
+2. Implement a built-in ORM
+3. Integrate a built-in authentication and authorization system
+4. Add a template engine
+5. Organize front-end assets
+6. Separate core framework files from application files
+7. Ensure consistent naming conventions
+8. Move the `.gitignore` file to the root directory
+9. Create a `config` directory
+10. Provide more model examples
+
+## Contributors
+
+We'd like to thank all the contributors who have helped improve NoLibX:
+
+- Marc Raineer Filosopo (https://github.com/raaaaiin) - Initial work, core features, and maintenance
+
+Feel free to add your name and a link to your GitHub profile when you contribute to the project.
+
