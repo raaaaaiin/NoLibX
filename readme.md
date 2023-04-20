@@ -16,36 +16,32 @@
 
 
 <h1>Directory Structure</h1>
-<pre> 
-C:.
+<pre> C:.
 ├───.idea
 ├───app
-│ ├───Common
-│ ├───Http
-│ │ └───Controller
-│ │ ├───Auth
-│ │ ├───Back
-│ │ ├───Master
-│ │ └───Navigations
-│ └───Models
+│   ├───Common
+│   ├───Http
+│   │   └───Controller
+│   │       ├───Auth
+│   │       ├───Back
+│   │       ├───Master
+│   │       └───Navigations
+│   └───Models
 ├───public
-│ ├───css
-│ │ └───bootstrap-4.6.0-dist
-│ │ ├───css
-│ │ └───js
-│ ├───front
-│ ├───js
-│ └───uploads
-├───resources
-│ ├───js
-│ └───view
-│ ├───Auth
-│ ├───Back
-│ ├───CSS
-│ └───Navigations
-└───view
-├───css
-└───img
+│   ├───css
+│   │   └───bootstrap-4.6.0-dist
+│   │       ├───css
+│   │       └───js
+│   ├───front
+│   ├───js
+│   └───uploads
+└───resources
+    ├───js
+    └───view
+        ├───Auth
+        ├───Back
+        ├───CSS
+        └───Navigations
 </pre>
 <h1>Getting Started</h1>
 
